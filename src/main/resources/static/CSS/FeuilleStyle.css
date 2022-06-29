@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+
+#idslogan
+{
+    text-decoration: double;
+    text-align: center;
+    text-shadow: 1px;
+    font-style: italic, bold;
+}
+
+#idco
+{
+    text-align: right;
+}
+
+body
+{
+    background-color: blanchedalmond;
+}
+
+#idDeco
+{
+    text-align: right;
+}
+
